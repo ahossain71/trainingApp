@@ -3,9 +3,9 @@
 <head>
   <title>Echoing HTML Request Parameters</title>
 </head>
-<body style="background-color:palevioletred">
+<body style="background-color:purple">
   <h1> 
-    <marquee direction="left" behavior="scroll" style="color:navy;font-weight:bold;font-size:30px">Conratulations !!!!! You have successfully completed the Cloud Elevation Training for "Introduction to AWS Network Solution Archotecture and Getting Hands-On with DevSecops...See you at the next Training Session on Containerization with Kubernetes ....</marquee>
+    <marquee direction="left" behavior="scroll" style="color:navy;font-weight:bold;font-size:30px">Conratulations !!! You have successfully completed the Cloud Elevation Training for "Introduction to AWS Network Solution Archotecture and Getting Hands-On with DevSecops...See you at the next Training Session on Containerization with Kubernetes ....</marquee>
   </h1>
   <h3><% InetAddress ia = InetAddress.getLocalHost();
     out.println("<!-- hostname  " + ia.getHostName() +  " -->");
